@@ -1,4 +1,4 @@
-import vercelFetch from '@vercel/fetch'
+import vercelFetch from 'node-fetch'
 
 const fetch = vercelFetch()
 
