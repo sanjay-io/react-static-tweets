@@ -5,5 +5,8 @@
   "packages": [
     "packages/*",
     "example/"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
