@@ -2,7 +2,7 @@
   "name": "react-static-tweets",
   "version": "0.7.3",
   "description": "Extremely fast static renderer for tweets.",
-  "repository": "transitive-bullshit/react-static-tweets",
+  "repository": "sanjay-io/react-static-tweets",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
@@ -34,5 +34,6 @@
     "next": ">=11",
     "react": ">=16",
     "react-dom": ">=16"
-  }
+  },
+  "gitHead": "78ba56409ca390dba1faa7b3001d81fd301eb1c1"
 }

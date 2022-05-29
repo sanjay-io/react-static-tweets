@@ -2,7 +2,7 @@
   "name": "static-tweets",
   "version": "0.7.3",
   "description": "Utilities for fetching and manipulating tweet ASTs.",
-  "repository": "transitive-bullshit/react-static-tweets",
+  "repository": "sanjay-io/react-static-tweets",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "source": "./src/index.ts",
@@ -36,5 +36,6 @@
     "mdast-util-to-string": "^3.0.0",
     "microbundle": "^0.14.2",
     "unist-util-visit": "^3.0.0"
-  }
+  },
+  "gitHead": "78ba56409ca390dba1faa7b3001d81fd301eb1c1"
 }
