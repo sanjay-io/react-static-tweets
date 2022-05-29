@@ -1,5 +1,5 @@
 {
-  "name": "static-tweets",
+  "name": "@sanjay-io/static-tweets",
   "version": "0.7.5",
   "description": "Utilities for fetching and manipulating tweet ASTs.",
   "repository": "sanjay-io/react-static-tweets",
@@ -37,5 +37,5 @@
     "microbundle": "^0.14.2",
     "unist-util-visit": "^3.0.0"
   },
-  "gitHead": "0f8bb7e24b569c939feacdc6ef9acc6e21a4f776"
+  "gitHead": "93cfa5a0af9465c24472b0b355898537cc59689f"
 }
