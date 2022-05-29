@@ -553,7 +553,7 @@
     "minipass-json-stream": "^1.0.1",
     "negotiator": "^0.6.2",
     "nanoid": "^3.1.23",
-    "node-fetch": "^3.2.4",
+    "node-fetch": "2.6.1",
     "nice-try": "^1.0.5",
     "next": "^12.1.0",
     "node-domexception": "^1.0.0",
