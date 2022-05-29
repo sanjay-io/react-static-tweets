@@ -37,5 +37,8 @@
     "microbundle": "^0.14.2",
     "unist-util-visit": "^3.0.0"
   },
-  "gitHead": "59d0373754a838143a0deeeac4229b5a19ca204e"
+  "gitHead": "d50836e769706dbc7a4a9cefa4248a76f8979423",
+  "publishConfig": {
+    "access": "public"
+  }
 }
