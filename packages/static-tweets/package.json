@@ -1,6 +1,6 @@
 {
   "name": "@sanjay-io/static-tweets",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "description": "Utilities for fetching and manipulating tweet ASTs.",
   "repository": "sanjay-io/react-static-tweets",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
