@@ -1,5 +1,5 @@
 {
-  "name": "@sanjay-io/static-tweets",
+  "name": "@sthakur/static-tweets",
   "version": "0.7.11",
   "description": "Utilities for fetching and manipulating tweet ASTs.",
   "repository": "sanjay-io/react-static-tweets",
@@ -37,7 +37,7 @@
     "microbundle": "^0.14.2",
     "unist-util-visit": "^3.0.0"
   },
-  "gitHead": "c7735be4beb10d9f12cf4e3439d828f6cc290e8b",
+  "gitHead": "4d93d8a850928e5e2289e5344dc50c0add637495",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"

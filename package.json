@@ -1,5 +1,5 @@
 {
-  "name": "@sanjay-io/react-static-tweets",
+  "name": "@sthakur/react-static-tweets",
   "private": false,
   "description": "Extremely fast static renderer for tweets.",
   "publishConfig": {

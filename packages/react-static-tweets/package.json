@@ -1,5 +1,5 @@
 {
-  "name": "@sanjay-io/react-static-tweets",
+  "name": "@sthakur/react-static-tweets",
   "version": "0.7.11",
   "description": "Extremely fast static renderer for tweets.",
   "repository": "sanjay-io/react-static-tweets",
@@ -35,7 +35,7 @@
     "react": ">=16",
     "react-dom": ">=16"
   },
-  "gitHead": "c7735be4beb10d9f12cf4e3439d828f6cc290e8b",
+  "gitHead": "4d93d8a850928e5e2289e5344dc50c0add637495",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
