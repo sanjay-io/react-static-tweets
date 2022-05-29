@@ -1,6 +1,6 @@
 {
   "name": "@sthakur/react-static-tweets",
-  "version": "0.7.11",
+  "version": "0.7.12",
   "description": "Extremely fast static renderer for tweets.",
   "repository": "sanjay-io/react-static-tweets",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
