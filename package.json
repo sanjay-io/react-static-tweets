@@ -1,7 +1,11 @@
 {
   "name": "@sanjay-io/react-static-tweets",
-  "private": true,
+  "private": false,
   "description": "Extremely fast static renderer for tweets.",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sanjay-io/react-static-tweets.git"

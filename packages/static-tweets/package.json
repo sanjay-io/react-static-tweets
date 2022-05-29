@@ -37,8 +37,9 @@
     "microbundle": "^0.14.2",
     "unist-util-visit": "^3.0.0"
   },
-  "gitHead": "5254b3294ceb34e660f5122d412d4f8ccafc3649",
+  "gitHead": "c7735be4beb10d9f12cf4e3439d828f6cc290e8b",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
