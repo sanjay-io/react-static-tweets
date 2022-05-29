@@ -35,7 +35,7 @@
     "react": ">=16",
     "react-dom": ">=16"
   },
-  "gitHead": "d50836e769706dbc7a4a9cefa4248a76f8979423",
+  "gitHead": "5254b3294ceb34e660f5122d412d4f8ccafc3649",
   "publishConfig": {
     "access": "public"
   }
