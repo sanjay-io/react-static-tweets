@@ -1,6 +1,6 @@
 {
   "name": "@sanjay-io/react-static-tweets",
-  "private": true,
+  "private": false,
   "description": "Extremely fast static renderer for tweets.",
   "repository": {
     "type": "git",
